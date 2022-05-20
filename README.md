@@ -1,3 +1,5 @@
+This is a demo app from owasp for learning purpose
+
 # Vulnerable Web Application 
 
 ![VulnWeb](https://github.com/OWASP/Vulnerable-Web-Application/blob/master/Resources/VulnWeb.png)
