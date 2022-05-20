@@ -1,3 +1,5 @@
+test 1 for semgrep 
+
 This is a demo app from owasp for learning purpose
 
 # Vulnerable Web Application 
