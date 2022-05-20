@@ -1,4 +1,4 @@
-testing semgrep ruleset now
+This is a demo app from owasp for learning purpose
 
 # Vulnerable Web Application 
 
